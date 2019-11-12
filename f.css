@@ -1,0 +1,192 @@
+body{
+padding: 0;
+margin-top: 0px;
+overflow-y: scroll;
+font-family: Calibri;
+font-size: 18px;
+background-image:url('#');
+background-repeat:;
+background-size:1366px 768px;
+background-attachment:fixed;
+}
+#nav
+{
+background-color: #222;
+
+}
+#nav_wrapper
+{
+width:860px;
+margin: 0 auto;
+text-align: left;
+
+}
+#nav ul
+{
+list-style-type:none;
+padding: 0;
+margin: 0;
+position: relative;
+}
+#nav ul li
+{
+display:inline-block;
+}
+#nav ul li :hover
+{
+background-color:#333;
+}
+#nav ul li a,visited
+{
+color:#ccc;
+display:block;
+padding:12.2px;
+text-decoration:none;
+}
+#nav ul li a,hover
+{
+color:#ccc;
+text-decoration:none;
+}
+#nav ul li:hover ul
+{
+display:block;
+}
+#nav ul ul
+{
+display:none;
+position: absolute;
+background-color:#333;
+border: 5px solid #222;
+border-top: 0;
+margin-left: -5px;
+min-width: 200px;
+}
+#nav ul ul li
+{
+display:block;
+}
+#nav ul ul li a:visited
+{
+color:#ccc;
+}
+#nav ul ul li a:hover
+{
+color: #099;
+}
+#mainabstract
+{
+width: 60%;
+height: 100% auto;
+/*border : 1px solid black;*/
+margin-left: 18%;
+}
+.shriabstimg
+{
+width: 200px;
+height: 200px;
+border: 2px solid black;
+margin-top: 10px;
+margin-left: 30px;
+background-image:url('#');
+}
+.shriabst
+{
+width:250px;
+height: 100px auto;
+/*border: 2px solid black;*/
+margin-left: 10px;
+margin-top: 10px;
+}
+.hariabstimg
+{
+width: 200px;
+height: 200px;
+border: 2px solid black;
+margin-top: -335px;
+margin-left: 325px;
+background-image:url('#');
+}
+.hariabst
+{
+width:250px;
+height: 100px auto;
+/*border: 2px solid black;*/
+margin-left: 300px;
+margin-top: 10px;
+}
+.diveabstimg
+{
+width: 200px;
+height: 200px;
+border: 2px solid black;
+margin-top: -335px;
+margin-left: 585px;
+background-image:url('#');
+}
+.diveabst
+{
+width:250px;
+height: 120px;
+/*border: 2px solid black;*/
+margin-left: 570px;
+margin-top: 10px;
+}
+.sidescenesabstimg
+{
+width: 200px;
+height: 200px;
+border: 2px solid black;
+margin-top: 10px;
+margin-left: 30px;	
+background-image:url('#');
+}
+.sidescenesabst
+{
+width:250px;
+height: 120px;
+/*border: 2px solid black;*/
+margin-left: 10px;
+margin-top: 10px;
+}
+.hotelsabstimg
+{
+width: 200px;
+height: 200px;
+border: 2px solid black;
+margin-top: -335px;
+margin-left: 325px;
+background-image:url('#');
+}
+.hotelabst
+{
+width:250px;
+height: 100px;
+/*border: 2px solid black;*/
+margin-left: 300px;
+margin-top: 7px;
+}
+.routeabstimg
+{
+width: 200px;
+height: 200px;
+border: 2px solid black;
+margin-top: -317px;
+margin-left: 585px;
+background-image:url('#');
+}
+.routeabst
+{
+width:250px;
+height: 100px;
+/*border: 2px solid black;*/
+margin-left: 570px;
+margin-top: 0px;
+}
+.bot
+{
+width: 100%;
+height: 60px;
+border: 2px solid black;
+background-color: #222;
+}

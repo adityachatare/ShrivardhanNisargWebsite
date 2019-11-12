@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AutoPlay>true</AutoPlay>
+            <DescSliding>true</DescSliding>
+            <GalleryMultipleSuffix>1</GalleryMultipleSuffix>
+            <GalleryName>1</GalleryName>
+            <GalleryOptionID>1</GalleryOptionID>
+            <HoverStart>false</HoverStart>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEngine>jquery</ImageEngine>
+            <ImageHeight>480</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink>true</ImageShrink>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>25. Ionosphere</ImageTemplate>
+            <ImageTemplateName>Ionosphere</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <PublishFileName>C:/Users/ADITYA/Documents/VisualLightBox/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>C:/Users/ADITYA/Documents/VisualLightBox</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelPaths>false</RelPaths>
+            <ResizeSpeed>7</ResizeSpeed>
+            <RightClick>false</RightClick>
+            <SlideShow>true</SlideShow>
+            <SlideShowDelay>4</SlideShowDelay>
+            <ThumbColumns>0</ThumbColumns>
+            <ThumbFitImage>false</ThumbFitImage>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>120</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbTemplate>Mac</ThumbTemplate>
+            <ThumbTemplateName>Native</ThumbTemplateName>
+            <ThumbWidth>160</ThumbWidth>
+        </Settings>
+        <Images>
+            <Image>
+                <url>J:/IMP docs/Projects/css html projects/Shriwardhan Nisarg/images/ban1.jpg</url>
+                <title>ban1</title>
+                <filesize>1795705</filesize>
+            </Image>
+            <Image>
+                <url>J:/IMP docs/Projects/css html projects/Shriwardhan Nisarg/images/ban2.jpg</url>
+                <title>ban2</title>
+                <filesize>2075147</filesize>
+            </Image>
+            <Image>
+                <url>J:/IMP docs/Projects/css html projects/Shriwardhan Nisarg/images/beach1.jpeg</url>
+                <title>beach1</title>
+                <filesize>399264</filesize>
+            </Image>
+            <Image>
+                <url>J:/IMP docs/Projects/css html projects/Shriwardhan Nisarg/images/beach2.jpg</url>
+                <title>beach2</title>
+                <filesize>1862703</filesize>
+            </Image>
+            <Image>
+                <url>J:/IMP docs/Projects/css html projects/Shriwardhan Nisarg/images/pesh1.JPG</url>
+                <title>pesh1</title>
+                <filesize>548553</filesize>
+            </Image>
+            <Image>
+                <url>J:/IMP docs/Projects/css html projects/Shriwardhan Nisarg/images/pesh2.JPG</url>
+                <title>pesh2</title>
+                <filesize>569478</filesize>
+            </Image>
+            <Image>
+                <url>J:/IMP docs/Projects/css html projects/Shriwardhan Nisarg/images/som1.jpg</url>
+                <title>som1</title>
+                <filesize>2254491</filesize>
+            </Image>
+            <Image>
+                <url>J:/IMP docs/Projects/css html projects/Shriwardhan Nisarg/images/som2.jpeg</url>
+                <title>som2</title>
+                <filesize>85937</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

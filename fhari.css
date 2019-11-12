@@ -1,0 +1,145 @@
+body{
+padding: 0;
+margin-top: 0px;
+overflow-y: scroll;
+font-family: Calibri;
+font-size: 18px;
+background-image:url('#');
+background-repeat:;
+background-size:1366px 768px;
+background-attachment:fixed;
+}
+#nav
+{
+background-color: #222;
+
+}
+#nav_wrapper
+{
+width:860px;
+margin: 0 auto;
+text-align: left;
+
+}
+#nav ul
+{
+list-style-type:none;
+padding: 0;
+margin: 0;
+position: relative;
+}
+#nav ul li
+{
+display:inline-block;
+}
+#nav ul li :hover
+{
+background-color:#333;
+}
+#nav ul li a,visited
+{
+color:#ccc;
+display:block;
+padding:12.2px;
+text-decoration:none;
+}
+#nav ul li a,hover
+{
+color:#ccc;
+text-decoration:none;
+}
+#nav ul li:hover ul
+{
+display:block;
+}
+#nav ul ul
+{
+display:none;
+position: absolute;
+background-color:#333;
+border: 5px solid #222;
+border-top: 0;
+margin-left: -5px;
+min-width: 200px;
+}
+#nav ul ul li
+{
+display:block;
+}
+#nav ul ul li a:visited
+{
+color:#ccc;
+}
+#nav ul ul li a:hover
+{
+color: #099;
+}
+#maintitle
+{
+margin-left: 100px;
+width: 450px;
+height: 50px auto;
+/*border: 2px solid black;*/
+}
+.hariabst
+{
+margin-left: 150px;
+margin-top: 20px;
+width: 800px;
+height: 100px auto;
+/*border: 2px solid black;*/
+}
+.hariabsthr
+{
+margin-left: 120px;
+width: 850px;
+height: 5px auto;
+/*border: 2px solid black;*/
+}
+.harimandir
+{
+margin-left: 150px;
+margin-top: 10px;
+width: 450px;
+height: 50px auto;
+/*border: 2px solid black;*/
+}
+.beachimg
+{
+margin-left: 160px;
+margin-top: 10px;
+width: 800px;
+height: 200px;
+/*border: 2px solid black;*/
+}
+.beachimg1
+{
+margin-left: 20px;
+margin-top: 10px;
+width: 370px;
+height:180px;
+border: 2px solid black;
+}
+.beachimg2
+{
+margin-left : 385px;
+margin-top: -182px;
+width: 370px;
+height:180px;
+border: 2px solid black;
+}
+.harimandirabst
+{
+margin-left: 150px;
+margin-top: 20px;
+width: 800px;
+height: 100px auto;
+/*border: 2px solid black;*/
+}
+.beachabsthr
+{
+margin-left: 120px;
+width: 850px;
+height: 5px auto;
+/*border: 2px solid black;*/
+}
